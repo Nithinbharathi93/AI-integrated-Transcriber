@@ -42,7 +42,7 @@ A voice-based transcription and AI response generator powered by **Google Gemini
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-integrated-Transcriber.git
+git clone https://github.com/Nithinbharathi93/AI-integrated-Transcriber
 cd AI-integrated-Transcriber
 ````
 
@@ -113,6 +113,6 @@ Open your browser at [http://localhost:5173](http://localhost:5173)
 ## 🧑‍💻 Author
 
 **Nithinbharathi T**
-[GitHub](https://github.com/nithinbharathi) | [LinkedIn](https://linkedin.com/in/nithinbharathi)
+[GitHub](https://github.com/nithinbharathi93) | [LinkedIn](https://linkedin.com/in/nithinbharathi)
 
 ---
