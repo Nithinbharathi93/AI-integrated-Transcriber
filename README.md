@@ -15,7 +15,7 @@ A voice-based transcription and AI response generator powered by **Google Gemini
 
 > *Hold the mic button to record voice input, release to generate AI response.*
 
-![Demo Screenshot](demo.png) <!-- Replace with actual screenshot if available -->
+![Demo Screenshot](./src/assets/image.png)
 
 ---
 
